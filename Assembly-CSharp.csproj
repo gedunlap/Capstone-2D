@@ -61,6 +61,9 @@
     <Compile Include="Assets/Scripts/ItemCollector.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets/Fonts/Stick/OFL.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2020.3.13f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
