@@ -11,6 +11,8 @@ public class ItemCollector : MonoBehaviour
     // var for updating apple count
     [SerializeField] private Text applesText;
 
+    [SerializeField] private AudioSource collectionSoundEffect;
+
     // ontrigger referes to calling apple "is trigger"
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -19,6 +21,7 @@ public class ItemCollector : MonoBehaviour
             Destroy(collision.gameObject);
             apples++;
             applesText.text = "Apples: " + apples;
+            collectionSoundEffect.Play();
         }
     }
 }

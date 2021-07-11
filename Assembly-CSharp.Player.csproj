@@ -65,6 +65,7 @@
     <Compile Include="Assets/Scripts/Rotate.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets/CasualGameBGM05/ReadMe.txt" />
     <None Include="Assets/Fonts/Stick/OFL.txt" />
   </ItemGroup>
   <ItemGroup>
