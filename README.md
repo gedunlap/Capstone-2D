@@ -2,7 +2,7 @@
 
 Hosted on:
 
-[Unity](https://play.unity.com/mg/other/my-first-unity-game-5183) 
+[Unity Play](https://play.unity.com/mg/other/my-first-unity-game-5183) 
 
 ## Overview
 
