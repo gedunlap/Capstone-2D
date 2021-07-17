@@ -10,8 +10,12 @@ I am very interested in the game development space and thought this project woul
 
 ## [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-At first just looking at C# seemed pretty daunting but once I got started it very quickly became pretty intuitive. I have enjoyed my time with it and look forward to learning more by building my games and other projects.
+At first looking at C# seemed pretty daunting but once I got started it very quickly became pretty intuitive. I def need more study using C# seperate from Unity, but I have enjoyed my time with it and look forward to learning more by building more games and other projects.
 
 ## [Unity](https://docs.unity3d.com/Manual/index.html)
 
 Unity is fantastic! After a few hours of walkthrough videos it's pretty easy to get the hang of adding and manipulating objects exactly how you want. Using C# along with Unity makes things pretty straight forward.
+
+### Thoughts
+
+I'm very happy with how this project came out. I will be building more and working on a 2D brawler or a 3D project next I think. 
